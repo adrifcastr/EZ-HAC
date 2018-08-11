@@ -409,7 +409,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.Name = "FormMain";
-            this.Text = "EZ-HAC - Another hactool GUI!";
+            this.Text = "EZ-HAC - Another hactool GUI!";           
             this.HacTab.ResumeLayout(false);
             this.XciExtractionTab.ResumeLayout(false);
             this.XciExtractionTab.PerformLayout();
